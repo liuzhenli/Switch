@@ -51,7 +51,6 @@ public class MySwitch extends View {
 
 			@Override
 			public void onClick(View v) {
-
 				// 点击的时候,左右切换
 				if (isOn) {
 					System.out.println("关灯");
